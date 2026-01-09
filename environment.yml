@@ -1,0 +1,9 @@
+name: rbi-course
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pip
+  - pip:
+    - mitsuba
